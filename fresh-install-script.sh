@@ -3,6 +3,8 @@ sudo apt install torbrowser-launcher
 sudo apt install chromium-browser
 sudo apt install keybase
 sudo apt install keepassxc
+sudo apt install transmission
+sudo apt install vlc
 sudo snap install spotify
 while true; do
     read -p "Install Graphical Editing Suite?" yn
